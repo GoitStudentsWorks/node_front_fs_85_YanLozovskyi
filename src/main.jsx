@@ -19,7 +19,7 @@ root.render(
       <Theme>
         <Global styles={GlobalStyles} />
         <PersistGate loading={<Loader />} persistor={persistor}>
-          <BrowserRouter basename="/">
+          <BrowserRouter basename="/node_front_fs_85_YanLozovskyi">
             <App />
           </BrowserRouter>
         </PersistGate>

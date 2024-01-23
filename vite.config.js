@@ -10,5 +10,5 @@ export default defineConfig({
       pages: '/src/pages',
     },
   },
-  base: '/',
+  base: '/node_front_fs_85_YanLozovskyi',
 });
